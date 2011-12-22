@@ -1,0 +1,10 @@
+OSMedia - notes and resources
+
+* About
+
+A collection of notes, and possibly in the future tools, for [[http://occupyseattle.org/][Occupy
+Seattle]] Media (OSMedia).
+
+* Tasks
+
+** TODO get this pushed to github.
