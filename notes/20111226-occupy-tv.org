@@ -85,7 +85,9 @@ We need to figure this out, before the 31st.  Preferably sooner.
 
 * DONE decide on licensing
 
-- CC-by-nc-sa -- consensus
+Proposed license: [[http://creativecommons.org/licenses/by-nc-sa/3.0/][CC-by-nc-sa]]
+
+Consensus, after some discussion.
 
 * Next meetings:
 
