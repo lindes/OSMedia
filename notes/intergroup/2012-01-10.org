@@ -22,11 +22,7 @@ Intergroup meeting notes, 2012-01-10:
 
 * Budget
 
-Very little detail on there, merely the following:
-
-** budget proposals
-
-quoted verbatim from:
+Going on previous notes of budget proposals, quoted verbatim from:
 http://occupyseattle.org/resource/weekly-budget-proposals
 
 #+BEGIN_EXAMPLE
@@ -41,7 +37,7 @@ City Hall - $120
 ** What to do?
 
 We don't currently have anyone from Finance here, so we don't know our
-balance or anything.
+balance or anything.  Also very little information from the above.
 
 There's a belief that if the budget made it online, then that means it
 was approved at the prior day's meeting.
